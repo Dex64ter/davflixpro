@@ -74,28 +74,32 @@
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
+      "titulo": "Filmes e séries de Ficção",
       "cor": "#9cd33b",
-      "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
-      },
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "ALTERED CARBON Trailer Brasileiro LEGENDADO série Policial (2018) Netflix",
+          "url": "https://www.youtube.com/watch?v=iCXv46VSu6Y"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "A Origem - Trailer Final (dublado) [HD]",
+          "url": "https://www.youtube.com/watch?v=R_VX0e0PX90"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "Eu Robô Trailer HD",
+          "url": "https://www.youtube.com/watch?v=iUd2mE7rmx0"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "BLADE RUNNER 2049 - Official Trailer",
+          "url": "https://www.youtube.com/watch?v=gCcx85zbxz4"
+        },
+        {
+          "titulo": "Círculo de Fogo - Trailer Dublado [HD 1080p]",
+          "url": "https://www.youtube.com/watch?v=KZnv9QUQDSM"
+        },
+        {
+          "titulo": "LOVE DEATH + ROBOTS | Official Trailer | Netflix",
+          "url": "https://www.youtube.com/watch?v=wUFwunMKa4E"
         }
       ]
     },
@@ -130,29 +134,29 @@
       },
       "videos": [
         {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+          "titulo": "A PERSONALIZAÇÃO do PLAYSTATION 5 e Cuphead no PS4",
+          "url": "https://www.youtube.com/watch?v=-Pha_IoaVuM"
         },
         {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+          "titulo": "Os MELHORES MEMES do NOVO controle do PLAYSTATION 5, o DualSense",
+          "url": "https://www.youtube.com/watch?v=aDuWMMr48tU"
         },
         {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+          "titulo": "THE LAST OF US 2 - O Início de Gameplay Dublado em Português PT-BR no PS4 PRO",
+          "url": "https://www.youtube.com/watch?v=s9y8MIKxnbY"
         },
         {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+          "titulo": "YONE, É UM ZED MISTURADO COM UM YASUO! BUFF OU NERF?",
+          "url": "https://www.youtube.com/watch?v=KR6lhu2ht9Y"
         },
         {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+          "titulo": "DE TABELA, JUKERA E RENEKTONZADA MAIS NERVOSO DO LEAGUE!",
+          "url": "https://www.youtube.com/watch?v=-YXtGwhTgso"
         }
       ]
     },
     {
-      "titulo": "Aprendendo a aprender tecnologia",
+      "titulo": "Memes",
       "cor": "#6b5be2",
       "link_extra": {
         "text": "Curso sobre aprendizado na Alura",
@@ -160,24 +164,24 @@
       },
       "videos": [
         {
-          "titulo": "Como estudar melhor?",
-          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+          "titulo": "TENTE NÃO RIR COM OS MELHORES DO MAELL MEMES | NÍVEL IMPOSSÍVEL | MEMES BR #82",
+          "url": "https://www.youtube.com/watch?v=tgUbnf3hhn4"
         },
         {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+          "titulo": "DUVIDO VOCÊ CONSEGUIR! TENTE NÃO RIR COM MELHORES MEMES 2020 #85 | SOUTH AMERICA MEMES",
+          "url": "https://www.youtube.com/watch?v=dW052BHYyQk"
         },
         {
-          "titulo": "Frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "TENTE NÃO RIR com memes de animais da South America Memes",
+          "url": "https://www.youtube.com/watch?v=1SElN5ymryk"
         },
         {
-          "titulo": "A mágica do Aprendizado",
-          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+          "titulo": "TENTE NÃO RIR NÍVEL HARD COM OS MELHORES MEMES 2020 #79 | SOUTH AMERICA MEMES",
+          "url": "https://www.youtube.com/watch?v=rsx-SLssnIE"
         },
         {
-          "titulo": "Como aprender a programar?",
-          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+          "titulo": "Memes feitos no PAINT",
+          "url": "https://www.youtube.com/watch?v=GkNANgaGS-I"
         }
       ]
     }
