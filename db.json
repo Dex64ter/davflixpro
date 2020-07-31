@@ -1,0 +1,16 @@
+{
+    "categorias": [
+        {
+            "id": 1,
+            "nome": "Front End",
+            "descricao": "Uma categoria daora",
+            "cor": "#0400EB"
+        },
+        {
+            "id": 2,
+            "nome": "Back End",
+            "descricao": "Outra categoria daora",
+            "cor": "#0400EB"
+        }
+    ]
+}
