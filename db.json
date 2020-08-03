@@ -2,15 +2,251 @@
     "categorias": [
         {
             "id": 1,
-            "nome": "Front End",
-            "descricao": "Uma categoria daora",
-            "cor": "#0400EB"
+            "titulo": "Front End",
+            "cor": "#6BD1FF",
+            "link_extra": {
+                "text": "Formação de Front End na Alura",
+                "url": "https://www.alura.com.br/cursos-online-front-end"
+             }
         },
         {
             "id": 2,
-            "nome": "Back End",
-            "descricao": "Outra categoria daora",
-            "cor": "#0400EB"
+            "titulo": "Back End",
+            "cor": "#00C86F",
+            "link_extra": {
+                "text": "Cursos de Back End na Alura",
+                "url": "https://www.alura.com.br/cursos-online-programacao"
+            }
+        },
+        {
+            "id": 3,
+            "titulo": "Filmes e séries de Ficção",
+            "cor": "#00C86F",
+        },
+        {
+            "id": 4,
+            "titulo": "Filmes",
+            "cor": "#00C86F",
+        },
+        {
+            "id": 5,
+            "titulo": "Games",
+            "cor": "#00C86F",
+            "link_extra": {
+                "text": "Formação de Jogos na Alura",
+                "url": "https://www.alura.com.br/formacao-jogos-unity"
+              }
+        },
+        {
+            "id": 6,
+            "titulo": "Memes",
+            "cor": "#00C86F",
+            "link_extra": {
+                "text": "Curso sobre aprendizado na Alura",
+                "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+              }
         }
+
+    ],
+    "videos": [
+        {
+            "id": 1,
+            "categoriaId": 1,
+            "titulo": "SEO com React",
+            "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+        },
+        {
+            "id": 2,
+            "categoriaId": 1,
+            "titulo": "SEO com React",
+            "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+        },
+        {
+            "id": 3,
+            "categoriaId": 1,
+            "titulo": "Componentização com VanillaJS #AluraMais",
+            "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+        },
+        {
+            "id": 4,
+            "categoriaId": 1,
+            "titulo": "Pare de chutar e aprenda a display: inline #01",
+            "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+        },
+        {
+            "id": 5,
+            "categoriaId": 1,
+            "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
+            "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+        },
+        {
+            "id": 6,
+            "categoriaId": 1,
+            "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
+            "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+        },
+        {
+            "id": 7,
+            "categoriaId": 1,
+            "titulo": "Novidades do Angular v9",
+            "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+        },
+        {
+            "id": 8,
+            "categoriaId": 1,
+            "titulo": "Base para aprender os frameworks",
+            "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+        },
+        {
+            "id": 9,
+            "categoriaId": 2,
+            "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
+            "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+        },
+        {
+            "id": 10,
+            "categoriaId": 2,
+            "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
+            "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+        },
+        {
+            "id": 11,
+            "categoriaId": 2,
+            "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
+            "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+        },
+        {
+            "id": 12,
+            "categoriaId": 2,
+            "titulo": "API: Dicionário do Programador",
+            "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+        }, 
+        {
+            "id": 13,
+            "categoriaId": 2,
+            "titulo": "Usando Git Direito",
+            "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+        },
+        {
+            "id": 14,
+            "categoriaId": 3,
+            "titulo": "ALTERED CARBON Trailer Brasileiro LEGENDADO série Policial (2018) Netflix",
+            "url": "https://www.youtube.com/watch?v=iCXv46VSu6Y"
+        },
+        {
+            "id": 15,
+            "categoriaId": 3,
+            "titulo": "A Origem - Trailer Final (dublado) [HD]",
+            "url": "https://www.youtube.com/watch?v=R_VX0e0PX90"
+        },
+        {
+            "id": 16,
+            "categoriaId": 3,
+            "titulo": "Eu Robô Trailer HD",
+            "url": "https://www.youtube.com/watch?v=iUd2mE7rmx0"
+        },
+        {
+            "id": 17,
+            "categoriaId": 3,
+            "titulo": "BLADE RUNNER 2049 - Official Trailer",
+            "url": "https://www.youtube.com/watch?v=gCcx85zbxz4"
+        },
+        {
+            "id": 18,
+            "categoriaId": 3,
+            "titulo": "Círculo de Fogo - Trailer Dublado [HD 1080p]",
+            "url": "https://www.youtube.com/watch?v=KZnv9QUQDSM"
+        },
+        {
+            "id": 19,
+            "categoriaId": 3,
+            "titulo": "LOVE DEATH + ROBOTS | Official Trailer | Netflix",
+            "url": "https://www.youtube.com/watch?v=wUFwunMKa4E"
+        },
+        {
+            "id": 20,
+            "categoriaId": 4,
+            "titulo": "Interestellar",
+            "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+        },
+        {
+            "id": 21,
+            "categoriaId": 4,
+            "titulo": "Gattaca",
+            "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+        },
+        {
+            "id": 22,
+            "categoriaId": 4,
+            "titulo": "A Chegada",
+            "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+        },
+        {
+            "id": 23,
+            "categoriaId": 4,
+            "titulo": "Feitiço do Tempo",
+            "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+        },
+        {
+            "id": 24,
+            "categoriaId": 5,
+            "titulo": "A PERSONALIZAÇÃO do PLAYSTATION 5 e Cuphead no PS4",
+            "url": "https://www.youtube.com/watch?v=-Pha_IoaVuM"
+        },
+        {
+            "id": 25,
+            "categoriaId": 5,
+            "titulo": "Os MELHORES MEMES do NOVO controle do PLAYSTATION 5, o DualSense",
+            "url": "https://www.youtube.com/watch?v=aDuWMMr48tU"
+        },
+        {
+            "id": 26,
+            "categoriaId": 5,
+            "titulo": "THE LAST OF US 2 - O Início de Gameplay Dublado em Português PT-BR no PS4 PRO",
+            "url": "https://www.youtube.com/watch?v=s9y8MIKxnbY"
+        },
+        {
+            "id": 27,
+            "categoriaId": 5,
+            "titulo": "YONE, É UM ZED MISTURADO COM UM YASUO! BUFF OU NERF?",
+            "url": "https://www.youtube.com/watch?v=KR6lhu2ht9Y"
+        },
+        {
+            "id": 28,
+            "categoriaId": 5,
+            "titulo": "DE TABELA, JUKERA E RENEKTONZADA MAIS NERVOSO DO LEAGUE!",
+            "url": "https://www.youtube.com/watch?v=-YXtGwhTgso"
+        },
+        {   
+            "id": 29,
+            "categoriaId": 6,
+            "titulo": "TENTE NÃO RIR COM OS MELHORES DO MAELL MEMES | NÍVEL IMPOSSÍVEL | MEMES BR #82",
+            "url": "https://www.youtube.com/watch?v=tgUbnf3hhn4"
+          },
+          {
+            "id": 30,
+            "categoriaId": 6,
+            "titulo": "DUVIDO VOCÊ CONSEGUIR! TENTE NÃO RIR COM MELHORES MEMES 2020 #85 | SOUTH AMERICA MEMES",
+            "url": "https://www.youtube.com/watch?v=dW052BHYyQk"
+          },
+          {
+            "id": 31,
+            "categoriaId": 6,
+            "titulo": "TENTE NÃO RIR com memes de animais da South America Memes",
+            "url": "https://www.youtube.com/watch?v=1SElN5ymryk"
+          },
+          {
+            "id": 32,
+            "categoriaId": 6,
+            "titulo": "TENTE NÃO RIR NÍVEL HARD COM OS MELHORES MEMES 2020 #79 | SOUTH AMERICA MEMES",
+            "url": "https://www.youtube.com/watch?v=rsx-SLssnIE"
+          },
+          {
+            "id": 33,
+            "categoriaId": 6,
+            "titulo": "Memes feitos no PAINT",
+            "url": "https://www.youtube.com/watch?v=GkNANgaGS-I"
+          }
+
     ]
 }
